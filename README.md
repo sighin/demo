@@ -1,2 +1,3 @@
 # demo
-Demo git repo
+Demo git repo \
+a new commit
